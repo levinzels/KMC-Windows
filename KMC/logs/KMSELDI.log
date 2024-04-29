@@ -1,0 +1,58 @@
+06:10:57:153 2020.02.11 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Home : Core : 6.3 : 18362
+
+06:10:57:210 Loading SECOH-QAD...
+06:10:57:213 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+06:10:57:213 Using host Forward: 10.18.125.95:1688
+06:10:57:213 Using host Local: 127.110.109.119:1688
+06:10:57:213 Using method: SECOH-QAD
+06:10:57:258 Time Start: 11.02.2020 06:10:56
+06:10:57:260 Checking Internet Connection...
+06:10:57:347 Internet Connection Detected
+06:10:57:348 Synchronizing Time...
+06:10:57:004 Time synchronized
+06:10:57:390 Windows Detected: Windows 10 Home : Core : 6.3 : 18362
+06:10:57:391 Using host Forward: 10.18.125.95:1688
+06:10:57:391 Using host Local: 127.110.109.119:1688
+06:10:57:391 Using method: SECOH-QAD
+06:10:57:496 Opening Firewall Port...
+06:10:57:726 Opening Firewall App...
+06:10:58:080 KMSEmulator Port: 1688
+06:10:58:081 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+06:10:58:244 Loading OEM Key Dumper...
+06:10:58:301 None MSDM table found
+06:10:58:324 KMSEmulator running port: 1688
+06:10:58:332 Office 2013 Skipped
+06:10:58:340 Office 2016 Found: C:\Program Files\Microsoft Office\Office16\
+06:10:58:340 Office 2010 Skipped
+06:11:00:253 Found Windows Products: 1
+06:11:00:256 Name: Windows(R), Core edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 49630
+LicenseStatus: 1
+PartialProductKey: H8Q99
+GenuineStatus: 0
+
+06:11:00:468 DisableKeyManagementServiceHostCaching 0
+06:11:00:468 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+06:11:00:469 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+06:11:00:471 Found Office 2016 Products: 1
+06:11:00:472 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 244030
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+06:11:00:523 DisableKeyManagementServiceHostCaching 0
+06:11:00:525 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+06:11:00:525 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+06:11:00:526 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+06:11:00:527 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+06:11:00:527 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+06:11:00:527 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+06:11:00:528 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+06:11:00:528 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
